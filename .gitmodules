@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "selcorr"]
 	path = selcorr
-	url = https://github.com/cran/selcorr
+	url = https://github.com/marcoegv/selcorr
